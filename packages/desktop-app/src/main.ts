@@ -218,7 +218,7 @@ const createMainWindow = () => {
     backgroundColor: theme.darkBlue,
     center: true,
     frame: false,
-    height: 1216,
+    height: 766,
     icon: icons.WINDOW_ICON_PATH,
     minHeight: 766,
     minWidth: 1216,
